@@ -12,9 +12,8 @@ h4,
 h5 {
   font-weight: bold;
 }
-.navbar-brand {
+#logobinar {
   width: 100px;
-  height: 34px;
 }
 .nav-item button,
 #hero button {
@@ -66,10 +65,6 @@ h5 {
 }
 #footer a {
   font-weight: bold;
-}
-#footer #logobinar {
-  width: 100px;
-  height: 34px;
 }
 @media (max-width: 767px) {
   * {
